@@ -221,3 +221,6 @@ pip-log.txt
 
 _notes/
 *.hidden/
+index.php
+
+
