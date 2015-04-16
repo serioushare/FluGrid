@@ -1,0 +1,50 @@
+flugrid{
+	display:none !important;
+}
+
+.fl_body{
+	white-space:nowrap;
+	overflow-y:hidden;
+	overflow-x:auto;
+}
+
+.fl_item{
+	display:inline-block;
+	min-width:400px;
+}
+
+.fl_title{
+	display:block;
+	font-size:36px;
+}
+
+.fl_column{
+	white-space:normal;
+	position:relative;
+	display:inline-block;
+	padding:10px;
+	left:0px;
+	width:400px;
+	vertical-align:top;
+}
+
+
+
+
+
+
+
+.col_tester{
+	display:none;
+	width:400px;
+}
+
+#col_tester{
+	display:block;
+	position:absolute;
+	background-color:#FF9;
+	left:-20000px;
+	width:400px;
+}
+
+
