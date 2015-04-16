@@ -1,8 +1,9 @@
 
-FluGrid.Loader=window.setInterval(function(){
+FluGrid_Loader=window.setInterval(function(){
 	if(document.readyState=='complete'){
-		window.clearInterval(FluGrid.Loader);
+		window.clearInterval(FluGrid_Loader);
 		debug.info('loaded');
-		//call to init comes here
+	//init calls come here
+		FluGrid_Init();
 	}
 },1);
