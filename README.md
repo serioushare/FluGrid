@@ -1,3 +1,5 @@
+Note: Currently working version is flugrid.prototype.js, still has limited functionality!
+
 # FluGrid (Fluid Columns and Grids)
 
 ### About FluGrid
