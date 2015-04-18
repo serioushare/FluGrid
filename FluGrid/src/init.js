@@ -1,3 +1,10 @@
+/* init.js ************************************************************************
+ *                                                                                *
+ * 
+ *                                                                                *
+ * Writen by E.P. de Haas                                                         *
+ ********************************************************** © Serious Hare, 2015 **/
+
 
 function FluGrid_Init(){
 	var style = document.createElement('style');
