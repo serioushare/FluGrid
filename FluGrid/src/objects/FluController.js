@@ -1,6 +1,13 @@
+/* FluController.js ***************************************************************
+ *                                                                                *
+ * Single Instance Object that controlls the main functionality of FluGrid.       *
+ *                                                                                *
+ * Writen by E.P. de Haas                                                         *
+ ********************************************************** © Serious Hare, 2015 **/
+
+
 var FluController = new function(){
 	var Me = this;
-
 
 	Me.Draw = function(){
 		for(var i=0; i<FluGrids.length; i++){
