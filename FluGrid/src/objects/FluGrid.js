@@ -12,7 +12,7 @@ debug.info('FluGrid ('+Me.Id+') found');
 	
 	var fi = element.getElementsByTagName('fluitem');
 	for(var i=0; i<fi.length; i++){
-		Me.Items[i] = new FluItem(fi[i], Me);
+		Me.Items[i] = new FluColumn(fi[i], Me);
 	}
 	
 debug.info('FluGrid contains '+fi.length+' items');

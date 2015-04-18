@@ -12,6 +12,7 @@ include("src/init.js");
 
 include("src/objects/FluGrid.js");
 include("src/objects/FluItem.js");
+include("src/objects/FluColumn.js");
 
 include("src/objects/FluController.js");
 ?>
