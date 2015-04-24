@@ -14,7 +14,3 @@ The first feature that will be implemented is the column layout. This layout wil
 
 There is currently a working prototype version, altho it parses line by line (puntion based, not code based). It's not Object Oriënted yet, has some minor height interpertation issues (margin/padding not included yet) so keep some distance. The prototype only parses paragraph tags and copies other tags directly.
 
-A demonstration of the setup of a simple column layout can be found at these links.
-* Hosted: http://flugrid.serioushare.com/Demos/demo_flugrid_proto.html
-* Source: https://github.com/serioushare/FluGrid/blob/master/FluGrid%20Webdomain/Demos/demo_flugrid_proto.html
-
